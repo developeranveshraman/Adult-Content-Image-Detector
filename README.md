@@ -33,7 +33,7 @@ Please use responsibly and in accordance with local laws and regulations.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/adult-content-detector.git
+   git clone https://github.com/developeranveshraman/Adult-Image-Detector.git
    cd adult-content-detector
    ```
 
