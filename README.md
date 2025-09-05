@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" height="300" src="http://asset.anvesh.rf.gd/github/Adult-Content-Image-Detector/logo.png">
+</p>
+
 # Adult Content Image Detector
 
 A Python-based tool for detecting adult content in images using machine learning APIs and computer vision techniques. This tool is designed for content moderation, parental controls, and maintaining safe digital environments.
