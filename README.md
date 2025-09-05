@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="http://asset.anvesh.rf.gd/github/Adult-Content-Image-Detector/logo.png">
+  <img width="300" height="300" src="http://asset.anvesh.rf.gd/github/Adult-Content-Image-Detector/logo-white.png">
 </p>
 
 # Adult Content Image Detector
