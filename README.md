@@ -38,8 +38,14 @@ Please use responsibly and in accordance with local laws and regulations.
    ```
 
 2. **Install required packages:**
+
+   For regular use: 
    ```bash
    pip install -r requirements.txt
+   ```
+   For development:
+   ```bash
+   pip install -r requirements-dev.txt
    ```
 
    Or install manually:
@@ -47,7 +53,7 @@ Please use responsibly and in accordance with local laws and regulations.
    pip install opencv-python pillow requests numpy
    ```
 
-3. **Optional (for Windows trash functionality):**
+4. **Optional (for Windows trash functionality):**
    ```bash
    pip install winshell
    ```
@@ -83,7 +89,7 @@ export SIGHTENGINE_API_SECRET="your_secret_here"
 ### Command Line Interface
 
 ```bash
-python adult_content_detector.py
+python index.py
 ```
 
 The program will prompt you to enter image paths for analysis.
@@ -223,8 +229,8 @@ The developers are not responsible for misuse of this software.
 
 ## 🙋‍♂️ Support
 
-- **Issues**: [GitHub Issues](https://github.com/developeranveshraman/Adult-Image-Detector/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/developeranveshraman/Adult-Image-Detector/discussions)
+- **Issues**: [GitHub Issues](https://github.com/developeranveshraman/Adult-Content-Image-Detector/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/developeranveshraman/Adult-Content-Image-Detector/discussions)
 - **Email**: support@anveshraman.rf.gd
 
 ## 📚 References
