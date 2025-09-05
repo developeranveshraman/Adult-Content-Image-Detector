@@ -1,0 +1,12 @@
+# Core dependencies for Adult Content Detector
+opencv-python>=4.5.0
+Pillow>=8.0.0
+requests>=2.25.0
+numpy>=1.19.0
+pathlib2>=2.3.0; python_version < "3.4"
+
+# Optional dependencies
+winshell>=0.6; sys_platform == "win32"
+
+# For enhanced image processing (optional)
+scikit-image>=0.18.0
