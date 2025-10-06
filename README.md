@@ -234,7 +234,6 @@ The developers are not responsible for misuse of this software.
 ## 🙋‍♂️ Support
 
 - **Issues**: [GitHub Issues](https://github.com/developeranveshraman/Adult-Content-Image-Detector/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/developeranveshraman/Adult-Content-Image-Detector/discussions)
 - **Email**: support@anveshraman.rf.gd
 
 ## 📚 References
